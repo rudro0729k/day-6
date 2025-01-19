@@ -1,0 +1,27 @@
+
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.primary-color{
+    color: #FD6E0A;
+}
+.dark-1{
+    
+}
+.dark-2{
+    color: #474747;
+}
+ul li a{
+    text-decoration: none;
+}
+ul li{
+
+}
+nav ul{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
